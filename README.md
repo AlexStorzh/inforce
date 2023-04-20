@@ -1,5 +1,5 @@
 # inforce
-Start server, then start client 
+Start server form server/src, then start client 
 
 Done: 
 * server + DB
