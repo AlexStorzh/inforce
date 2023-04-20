@@ -2,11 +2,11 @@
 Start server, then start client 
 
 Bugs/Not done: 
-TS types (easy fix but take time)
-delete modals popup (easy fix)
-validation inputs handler 
-comments input
-edit page (didnt create patch route)
+* TS types (easy fix but take time)
+* delete modals popup (easy fix)
+* validation inputs handler 
+* comments input
+* edit page (didnt create patch route)
 
 Done: 
 server + DB
