@@ -1,6 +1,8 @@
 # inforce
 Start server form server/src, then start client 
 
+Time 12:15 - ~ 17:20
+
 Done: 
 * server + DB
 * Sort on name/count
@@ -20,4 +22,4 @@ Bugs/Not done:
 * comments input
 * edit page (didnt create patch route)
 
-12:15 - ~ 17:20
+
