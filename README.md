@@ -13,9 +13,11 @@ Done:
 
 
 Bugs/Not done: 
+* styling 
 * TS types (easy fix but take time)
-* delete modals popup (easy fix)
+* delete modals popup (easy fix) and create it with portals
 * validation inputs handler 
 * comments input
 * edit page (didnt create patch route)
 
+12:15 - ~ 17:20
